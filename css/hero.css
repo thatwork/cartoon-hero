@@ -5,6 +5,9 @@ body {
 	line-height: 30px;
 }
 
+/* header styles */
+/* cmd + / is comment shortcut */
+
 header {
 	background-color: hotpink;
 	text-align: center;
